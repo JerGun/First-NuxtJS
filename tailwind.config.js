@@ -36,6 +36,7 @@ module.exports = {
                     default: "#FFA3A3",
                 }
             },
+            
         },
         screens: {
             'sm': { 'min': '375px', 'max': '767px' },
