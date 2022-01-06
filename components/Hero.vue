@@ -15,7 +15,7 @@
       >
         <!-- Left Container -->
         <div
-          class="h-1/2 w-6/12 md:w-10/12 flex flex-wrap content-center md:items-center text-left md:text-center text-white"
+          class="h-1/2 w-6/12 mt-10 md:w-10/12 flex flex-wrap content-center md:items-center text-left md:text-center text-white"
         >
           <!-- Top market company & Icon -->
           <div class="w-full flex justify-start md:justify-center">
