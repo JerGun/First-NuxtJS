@@ -52,7 +52,7 @@
 
       <!-- Right -->
       <div
-        class="absolute top-56 flex justify-end mt-16 md:justify-center md:top-96 md:mt-72"
+        class="absolute top-20 flex justify-end mt-16 md:justify-center md:top-96 md:mt-72"
       >
         <!-- Card Container -->
         <div
